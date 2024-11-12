@@ -122,7 +122,11 @@ Com um perfil detalhista, estou sempre em busca de novas possibilidades que poss
 Se quiser enviar alguma informação adicional sobre o desafio..
 
 Primeiramente, gostaria de agradecer do fundo do meu coração pela oportunidade de fazer esse desafio. Que uniu, como mencionei a pouco, alguns fios brancos, muitos estudos, e um prazer enorme de trabalhar com Angular e NestJs, e criar uma API em GraphQL. Sério, fiquei muito feliz! Tive muitos insights com essas tecnologias e a cada dia percebo que tem um universo de ferramentas e soluções imenso no mercado de TI.
-E é por isso que quero fortemente mergulhar mais fundo na área, e poder crescer ainda mais e trabalhar com colegas capacitados em uma empresa que pode me agregar muito e também fazer a diferença como dev na Field.
+
+E é por isso que quero fortemente mergulhar mais fundo na área, e poder crescer ainda mais e trabalhar com colegas capacitados em uma empresa que pode me agregar muito e também fazer poder fazer a diferença como dev na Field.
+
+Estou a disposição para um bate papo, e tirar quaisquer dúvida. 
+
 Grato.
 
 ---
